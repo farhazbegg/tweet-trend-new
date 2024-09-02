@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building...'
-                // Insert your build commands here, e.g., mvn clean install
+                // Insert your build commands here 123, e.g., mvn clean install
             }
         }
         stage('Test') {
